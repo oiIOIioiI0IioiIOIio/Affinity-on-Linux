@@ -57,14 +57,14 @@ If your distribution is not listed, the script will attempt to use Debian-style 
 ### Step 1 — Download the installer
 
 ```bash
-curl -L -o affinity_install.sh https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/affinity_install.sh
+curl -L -o affinity_install.sh https://raw.githubusercontent.com/oiIOIioiI0IioiIOIio/Affinity-on-Linux/main/affinity_install.sh
 chmod +x affinity_install.sh
 ```
 
 Or clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/oiIOIioiI0IioiIOIio/Affinity-on-Linux.git
 cd YOUR_REPO
 chmod +x affinity_install.sh
 ```
